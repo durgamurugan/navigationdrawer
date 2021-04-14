@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/map"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_create"
+            android:icon="@drawable/addloc"
+            android:title="@string/menu_create" />
+        <item
+            android:id="@+id/nav_myalarams"
+            android:icon="@drawable/alarmclock"
+            android:title="@string/menu_myalarms" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/winset"
+            android:title="@string/Settings" />
+    </group>
+    <item android:title="@string/PrivacyandPolicy" />
+
+</menu>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id" />
+    <item name="mainLayout" type="id" />
+    <item name="B_to" type="id" />
+    <item name="map" type="id" />
+</resources>
